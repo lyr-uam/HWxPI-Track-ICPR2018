@@ -1,4 +1,4 @@
-# HxPI Track at 2018 ICPR Multimedia Information Processing for Personality & Social Networks Analysis Challenge
+# HWxPI Track at 2018 ICPR Multimedia Information Processing for Personality & Social Networks Analysis Challenge
 
 ## Task description
 
