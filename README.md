@@ -32,4 +32,3 @@ Originally posted in [ChaLearn Looking at People](http://chalearnlap.cvc.uab.es/
 # Cite:
 
 Ramírez, Gabriela, et al. “Overview of the Multimedia Information Processing for Personality & Social Networks Analysis Contest.” Pattern Recognition and Information Forensics, edited by Zhaoxiang Zhang et al., Springer International Publishing, 2019, pp. 127–39. Springer Link, doi:10.1007/978-3-030-05792-3_12.
-Ramírez, Gabriela, et al. “Overview of the Multimedia Information Processing for Personality & Social Networks Analysis Contest.” Pattern Recognition and Information Forensics, edited by Zhaoxiang Zhang et al., Springer International Publishing, 2019, pp. 127–39. Springer Link, doi:10.1007/978-3-030-05792-3_12.
