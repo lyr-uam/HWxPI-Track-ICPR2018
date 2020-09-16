@@ -28,3 +28,8 @@ Each row in the .data file correspond to the same row in the .solution file for 
 As described previously, the problem of personality recognition consists in a binary classification problem for each of five traits. Thus, the evaluation of the participants teams will be through standard set-based metrics, such as F-measure, accuracy, and the the ROC AUC measure. The leading evaluation measure for ranking participants is the macro averaged Area Under the ROC Curve (auc_multilabel)
 
 Originally posted in [ChaLearn Looking at People](http://chalearnlap.cvc.uab.es/challenge/27/description/).
+
+# Cite:
+
+Ramírez, Gabriela, et al. “Overview of the Multimedia Information Processing for Personality & Social Networks Analysis Contest.” Pattern Recognition and Information Forensics, edited by Zhaoxiang Zhang et al., Springer International Publishing, 2019, pp. 127–39. Springer Link, doi:10.1007/978-3-030-05792-3_12.
+Ramírez, Gabriela, et al. “Overview of the Multimedia Information Processing for Personality & Social Networks Analysis Contest.” Pattern Recognition and Information Forensics, edited by Zhaoxiang Zhang et al., Springer International Publishing, 2019, pp. 127–39. Springer Link, doi:10.1007/978-3-030-05792-3_12.
